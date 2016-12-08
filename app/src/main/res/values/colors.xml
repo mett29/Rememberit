@@ -1,0 +1,9 @@
+<resources>
+    <color name="blue_pressed">#00796B</color>
+    <color name="blue_normal">#4DB6AC</color>
+
+    <!-- A dark Holo shade of blue -->
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <!-- A light Holo shade of blue -->
+    <color name="holo_blue_light">#ff33b5e5</color>
+</resources>
